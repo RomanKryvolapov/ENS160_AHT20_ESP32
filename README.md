@@ -4,5 +4,6 @@
 
 ![1!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/Sensor.jpg "1")
 
-![2!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/ESP32.png "2")
+![2!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/ESP32-Pinout.png "2")
 
+![3!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/ENS160.png?raw "3")
