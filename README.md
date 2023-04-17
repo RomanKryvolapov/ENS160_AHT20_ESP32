@@ -9,6 +9,8 @@
 <p>SDA ENS160 -> 21 pin ESP32</p>
 <p>SCL ENS160 -> 22 pin ESP32</p>
 
+https://github.com/RomanKryvolapov/ENS160_VOC_Gas_Sensors_AHT20_Temperature_Humidity_Sensor_ESP32/blob/master/ENS160_Datasheet.pdf
+
 ![1!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/Sensor.jpg "1")
 
 ![2!](https://github.com/RomanKryvolapov/ENS160_AHT20_ESP32/blob/master/ESP32-Pinout.png "2")
